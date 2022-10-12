@@ -1,3 +1,7 @@
+JAR files required: 1) jcalendar-1.4.jar
+                    2)mysql-connector-java-8.0.30\mysql-connector-java-8.0.30\mysql-connector-java-8.0.30.jar
+
+
 package newStudentEntry;
 
 import java.awt.Color;
